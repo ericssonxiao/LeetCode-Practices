@@ -1,2 +1,2 @@
 # LeetCode-Practices
-I'm going to learn python3 and golang, use LeetCode question to practice it.
+I'm going to use python3 and golang to approach the LeetCode coding problem and to solve it.
